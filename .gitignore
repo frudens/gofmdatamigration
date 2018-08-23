@@ -1,0 +1,6 @@
+*.out
+.glide/
+.DS_Store
+.idea/
+bin
+dist
