@@ -25,7 +25,7 @@ goFMDataMigration is a command line tool for easy data migration using the FMDat
 
 ## Download
 
-You can download it from the release page.
+You can download it from the [release](https://github.com/frudens/gofmdatamigration/releases) page.
 
 ## Usage
 
