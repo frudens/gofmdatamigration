@@ -22,6 +22,11 @@ goFMDataMigration is a command line tool for easy data migration using the FMDat
 7. Run `gofmdatamigration -a account -p password`
 8. The same file as the prod folder is created in the `resources/migrated` folder.
 
+
+## Download
+
+You can download it from the release page.
+
 ## Usage
 
 Create a folder for data migration.
