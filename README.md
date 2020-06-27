@@ -61,7 +61,7 @@ $ tree
 Execute the command.
 
 ```
-$ gofmdatamigration admin ""
+$ gofmdatamigration -a admin -p ""
 
 resources/prod/Contacts.fmp12
 ----------
