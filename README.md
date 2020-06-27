@@ -60,7 +60,8 @@ $ tree
 │       │   └── Meetings.fmp12
 │       ├── Contacts.fmp12
 │       └── Tasks.fmp12
-└── FMDataMigration
+├── FMDataMigration
+└── gofmdatamigration
 ```
 
 Execute the command.
